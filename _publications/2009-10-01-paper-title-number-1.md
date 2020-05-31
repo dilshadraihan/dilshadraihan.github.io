@@ -6,9 +6,12 @@ excerpt: 'A fault detection and classification scheme that uses probabilistic in
 date: 2014-01-28
 venue: 'AIChE Journal'
 paperurl: 'https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.14386'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sen, D., Raihan, D., & Chidambaram, M. Multiway continuous hidden Markov model based ap-
+proach for fault detection and diagnosis. AIChE Journal. doi:10.1002/aic.14386.'
+
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper concerns with the design of a hidden Markov model based fault detection and diagnosis(FDD) scheme. The measurement space is assumed continuous by modelling the observations as originating from a Gaussian mixture model. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
