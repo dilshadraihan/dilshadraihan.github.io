@@ -2,7 +2,7 @@
 title: "Particle Gaussian Mixture Filters"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'A Bayesian filtering framework for handling multimodality and nonlinearity induced distortion'
+excerpt: 'A Bayesian filtering framework for handling multimodality and nonlinearity induced distortion.'
 date: 2015-10-01
 venue: 'International Conference on Information Fusion, 2016, Heidelberg, Germany.'
 paperurl: 'https://ieeexplore.ieee.org/document/7528043'
