@@ -1,6 +1,5 @@
 ---
-title: "An Unscented Kalman-Particle Hybrid Filter for Space Object Track-
-ing"
+title: "An Unscented Kalman-Particle Hybrid Filter for Space Object Tracking"
 collection: publications
 permalink: /publication/paper4
 excerpt: 'A Hybrid Filtering framework for spce object tracking under sparse measurements'
