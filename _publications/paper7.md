@@ -1,7 +1,7 @@
 ---
 title: 'Particle Gaussian Mixture Filters-II'
 collection: publications
-permalink: /publication/paper6
+permalink: /publication/paper7
 excerpt: 'A nonliear filter that can handle the multimodality arising from the measurement function of the sensor'
 date: '2018-07-23'
 venue: 'International Conference on Information Fusion, 2018, Cambridge,UK'
