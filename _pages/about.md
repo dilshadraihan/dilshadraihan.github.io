@@ -12,4 +12,4 @@ I am currently a data scientist with Amazon Web Services (AWS). I received my Ph
 
 Other Names
 -----------
-My full name is Dilshad Raihan Akkam Veettil. It's been known to spill past space limits in various forms and cause head aches to HR departments. As a result, it's often shortened as Dilshad R Akkam Veettil, Dilshad Veettil, Dilshad Raihan, Dilshad Raihan A.V,  etc. I prefer the last one.
+My full name is Dilshad Raihan Akkam Veettil. It's been known to spill past space limits in various forms and cause headache to HR departments. As a result, it's often shortened as Dilshad R Akkam Veettil, Dilshad Veettil, Dilshad Raihan, Dilshad Raihan A.V,  etc. I prefer the last one.
