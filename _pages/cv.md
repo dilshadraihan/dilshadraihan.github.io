@@ -28,6 +28,10 @@ Work experience
   * Anadarko Petroleum Corp
   * Date: June 2019 - September 2019
   
+* Data Science Intern
+  * Anadarko Petroleum Corp
+  * Date: May 2018- August 2018
+  
 Skills
 ======
 * Matlab
