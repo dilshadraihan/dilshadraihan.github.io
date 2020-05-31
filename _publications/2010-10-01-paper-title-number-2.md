@@ -2,7 +2,7 @@
 title: " A UKF-PF based hybrid estimation scheme for space object tracking"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'A filtering approach for tracking space objects when measurements are sparse'
+excerpt: 'A filtering approach for tracking space objects when measurements are sparse.'
 date: 2015-8-09
 venue: 'AAS/AIAA Astrodynamics Specialist Conference 2015. Vail-Colorado'
 paperurl: 'http://edplab.org/wp-content/uploads/2014/06/AASpap.pdf'
