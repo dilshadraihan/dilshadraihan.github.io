@@ -30,12 +30,11 @@ Work experience
   
 Skills
 ======
+* Matlab
 * Python
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Scikitlearn
+  * Keras
+
 
 Publications
 ======
@@ -58,5 +57,4 @@ Teaching
 Service and leadership
 ======
 * Reviewer for IEEE Transactions on Signal Processing, Multidimensional Systems and Signal Pro-
-cessing, ASME Journal of Dynamic Systems, Measurement and Control, IEEE Access, Signal Pro-
-cessing (Elsevier), Journal of Franklin Institute and International conference on Information Fusion.
+cessing, ASME Journal of Dynamic Systems, Measurement and Control, IEEE Access, Signal Processing (Elsevier), Journal of Franklin Institute and International conference on Information Fusion.
