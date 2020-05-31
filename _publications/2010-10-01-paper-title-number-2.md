@@ -1,6 +1,5 @@
 ---
-title: "Raihan, D., Chakravorty, S. A UKF-PF based hybrid estimation scheme for space object tracking.
-Presented at AAS/AIAA Astrodynamics Specialist Conference 2015. Vail-Colorado."
+title: " A UKF-PF based hybrid estimation scheme for space object tracking"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'A filtering approach for tracking space objects when measurements are sparse'
