@@ -7,9 +7,7 @@ venue: "Texas A&M University, Aerospace Engineering"
 date: 2017-01-15
 location: "College Station, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
+I taught undergraduate AERO 220 during the spring of 2017 as part of a Graduate teaching fellowship. 
 Heading 1
 ======
 
