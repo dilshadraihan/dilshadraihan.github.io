@@ -57,4 +57,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for IEEE Transactions on Signal Processing, Multidimensional Systems and Signal Pro-
+cessing, ASME Journal of Dynamic Systems, Measurement and Control, IEEE Access, Signal Pro-
+cessing (Elsevier), Journal of Franklin Institute and International conference on Information Fusion.
