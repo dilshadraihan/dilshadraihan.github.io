@@ -12,4 +12,4 @@ I am currently a data scientist with Amazon Web Services (AWS). I received my Ph
 
 Other Names
 -----------
-If you come across Dilshad Raihan Akkam Veettil, Dilshad R Akkam Veettil, Dilshad Veettil, or just Dilshad Raihan in the wild, just wave at him. May be buy him a coffee. There is a very high chance that its me.
+If you come across Dilshad Raihan Akkam Veettil, Dilshad R Akkam Veettil, Dilshad Veettil, or just Dilshad Raihan in the wild, wave at him. May be buy him a coffee. There is a very high chance that its me.
